@@ -1,12 +1,17 @@
-# news-image-20261120 — story list, ROUND 2 (Friday 20 November 2026)
+# news-image-20261120 — story list, ROUND 3 (Friday 20 November 2026)
 
 40 stories, 7 regions. Europe 6, Asia 8, Middle East 6, Africa 9,
 Americas 5, Oceania 3, World 3. Every story was verified against wire
 coverage or the day's news roundups of 20 Nov 2026 (WIB) before it
-went on the page. Changes vs R1: PIF-tower strike removed from the
-leads (first reported Thu 19 Nov — now only in DATE CHECK); Korea's
-$1tn export milestone removed from the briefs (also Thu 19 Nov, it
-contradicted R1's own date check).
+went on the page. Changes vs R2: layout only — solid-beige-continent
+map with numbered red pins, richer lead art (layered cyclone spiral,
+Kyiv skyline + missile trails + blasts, COP31 globe + thermometer +
+$120BN badge), a real mini-illustration in every feature panel 4–13,
+briefs 14–40 in two numbered columns, Playfair Display masthead +
+Archivo body, 2x supersample render. Story data UNCHANGED from R2:
+PIF-tower strike stays out of the leads (first reported Thu 19 Nov —
+only in DATE CHECK); Korea's $1tn export milestone stays out of the
+briefs (also Thu 19 Nov).
 
 ## Lead cards (1–3)
 
